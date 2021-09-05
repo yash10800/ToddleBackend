@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://yash:Yash%402181@cluster0.4hsmk.mongodb.net/toddle?retryWrites=true&w=majority",
+    "jwtSecret": "toddleAssignment"
+  }
